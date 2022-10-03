@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\santi\\dotnet_mvc\\dotnet_mvc.csproj": {}
+    "C:\\Users\\santi\\OneDrive\\Documents\\GitHub\\dotnet_mvc\\dotnet_mvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\santi\\dotnet_mvc\\dotnet_mvc.csproj": {
+    "C:\\Users\\santi\\OneDrive\\Documents\\GitHub\\dotnet_mvc\\dotnet_mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santi\\dotnet_mvc\\dotnet_mvc.csproj",
+        "projectUniqueName": "C:\\Users\\santi\\OneDrive\\Documents\\GitHub\\dotnet_mvc\\dotnet_mvc.csproj",
         "projectName": "dotnet_mvc",
-        "projectPath": "C:\\Users\\santi\\dotnet_mvc\\dotnet_mvc.csproj",
+        "projectPath": "C:\\Users\\santi\\OneDrive\\Documents\\GitHub\\dotnet_mvc\\dotnet_mvc.csproj",
         "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santi\\dotnet_mvc\\obj\\",
+        "outputPath": "C:\\Users\\santi\\OneDrive\\Documents\\GitHub\\dotnet_mvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config"

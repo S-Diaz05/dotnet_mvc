@@ -8,25 +8,19 @@
 {
     <div>
         @Html.LabelFor(Model => Model.nombre)
-        @Html.EditorFor(Model => Model.nombre)
-        <br>
-        <br>
+        @Html.EditorFor(Model => Model.nombre)<br><br>
+
         @Html.LabelFor(Model => Model.apellidos)
-        @Html.EditorFor(Model => Model.apellidos)
-        <br>
-        <br>
+        @Html.EditorFor(Model => Model.apellidos)<br><br>
+
         @Html.LabelFor(Model => Model.correo)
-        @Html.EditorFor(Model => Model.correo)
-        <br>
-        <br>
-        @Html.LabelFor(Model => Model.password, new {htmlAttibutes = new{text = "Contaseña"}})
-        @Html.EditorFor(Model => Model.password, new { htmlAttributes = new { type = "password" }})
-        <br>
-        <br>
+        @Html.EditorFor(Model => Model.correo)<br><br>
+
+        @Html.LabelFor(Model => Model.password)
+        @Html.EditorFor(Model => Model.password, new { htmlAttributes = new { type = "password" }})<br><br>
+        
         @Html.LabelFor(Model => Model.verify_password)
-        @Html.EditorFor(Model => Model.verify_password, new { htmlAttributes = new { type = "password" }})
-        <br>
-        <br>
+        @Html.EditorFor(Model => Model.verify_password, new { htmlAttributes = new { type = "password" }})<br><br>
 
     </div>
     <input type="submit" value="Guardar">
